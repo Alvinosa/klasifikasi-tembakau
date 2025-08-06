@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+pillow
+numpy
+scikit-learn
+joblib
+pandas
